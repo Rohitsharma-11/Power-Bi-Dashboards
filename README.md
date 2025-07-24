@@ -66,20 +66,14 @@ The Power BI report includes 3 pages:
 
 ## 📃 Page-wise Description
 
-### 📌 Customer Page
-- **Highlights**: Unique customers, revenue per customer, top 100 customers.
-- **Breakdowns**: Orders by income level and occupation.
-- **Top Customer**: Mr. Maurice Shan ($12.4K revenue from 6 orders).
-
 ### 📌 Dashboard Page
-- **Visuals**: Monthly revenue trends, category-wise orders, top 10 products.
-- **Comparisons**: Current vs. previous month performance.
-- **KPIs**: Revenue growth, order count, and returns.
+[Dashboard Images/Dashboard.JPG](https://github.com/Rohitsharma-11/Power-Bi-Dashboards/blob/b74ae5707a42dfb28a111fed5135428e72ec5aff/Dashboard%20Images/Dashboard.JPG?raw=true)
 
-### 📌 Product Page (Road Tire Tube Example)
-- **Metrics**: Monthly targets vs. actual (orders, revenue, profit).
-- **Trends**: Return rate over time.
-- **Adjustment**: Price change slider to test profit scenarios.
+### 📌 Product Page
+[Dashboard Images/Product Page.JPG](https://github.com/Rohitsharma-11/Power-Bi-Dashboards/blob/b74ae5707a42dfb28a111fed5135428e72ec5aff/Dashboard%20Images/Product%20Page.JPG?raw=true)
+
+### 📌 Customer Page 
+[Dashboard Images/Customer Page.JPG](https://github.com/Rohitsharma-11/Power-Bi-Dashboards/blob/b74ae5707a42dfb28a111fed5135428e72ec5aff/Dashboard%20Images/Customer%20Page.JPG?raw=true)
 
 ---
 
