@@ -67,13 +67,14 @@ The Power BI report includes 3 pages:
 ## 📃 Page-wise Description
 
 ### 📌 Dashboard Page
-(https://github.com/Rohitsharma-11/Power-Bi-Dashboards/blob/b74ae5707a42dfb28a111fed5135428e72ec5aff/Dashboard%20Images/Dashboard.JPG?raw=true)
+![Dashboard](https://github.com/Rohitsharma-11/Power-Bi-Dashboards/blob/b74ae5707a42dfb28a111fed5135428e72ec5aff/Dashboard%20Images/Dashboard.JPG?raw=true)
 
 ### 📌 Product Page
-(https://github.com/Rohitsharma-11/Power-Bi-Dashboards/blob/b74ae5707a42dfb28a111fed5135428e72ec5aff/Dashboard%20Images/Product%20Page.JPG?raw=true)
+![Product Page](https://github.com/Rohitsharma-11/Power-Bi-Dashboards/blob/b74ae5707a42dfb28a111fed5135428e72ec5aff/Dashboard%20Images/Product%20Page.JPG?raw=true)
 
 ### 📌 Customer Page 
-(https://github.com/Rohitsharma-11/Power-Bi-Dashboards/blob/b74ae5707a42dfb28a111fed5135428e72ec5aff/Dashboard%20Images/Customer%20Page.JPG?raw=true)
+![Customer Page](https://github.com/Rohitsharma-11/Power-Bi-Dashboards/blob/b74ae5707a42dfb28a111fed5135428e72ec5aff/Dashboard%20Images/Customer%20Page.JPG?raw=true)
+
 
 ---
 
