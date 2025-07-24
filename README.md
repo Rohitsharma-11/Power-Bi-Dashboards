@@ -38,8 +38,8 @@ AdventureWorks, like many businesses, needs to track its performance across vari
 ## 🧩 Dashboard Overview
 
 The Power BI report includes 3 pages:
-- **Customer Page**: Analyzes top customers by revenue, occupation, income level, and order patterns.
 - **Main Dashboard**: Tracks overall revenue, profit, returns, and most/least ordered product categories.
+- **Customer Page**: Analyzes top customers by revenue, occupation, income level, and order patterns.
 - **Product Page**: Deep dive into product-level KPIs like monthly revenue, orders, profit, and return rate vs. target.
 
 ---
