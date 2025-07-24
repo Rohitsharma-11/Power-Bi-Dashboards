@@ -1,7 +1,7 @@
 
 # 📊 AdventureWorks Sales Insights Dashboard
 
-## 🧠 Project by: [Your Name or Team Name]
+## 🧠 Project by: Rohit Sharma
 
 ---
 
